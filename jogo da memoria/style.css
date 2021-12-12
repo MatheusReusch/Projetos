@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.insertNome {
+    margin-left: 20%;
+    margin-top: 30px;
+}
+
+.insertButton {
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+#sec1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+#seuNome {
+    margin-right: 5px;
+    font-size: large;
+}
+
+#timer {
+    font-size: large;
+}
+
+#jogo {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 6%;
+}
+
+.pecas {
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    width: 18%;
+    height: 100px;
+}
